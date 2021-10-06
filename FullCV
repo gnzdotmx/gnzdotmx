@@ -1,0 +1,13 @@
+
+<h2>Technical skills</h2>
+<ul>
+<li> CSIRT roles: Incident manager, Incident handler </li> 
+<li> Blackbox: Kali Linux, Metasploit, Nmap, Nessus, BurpSuite, Gdb</li>
+<li> Whitebox: SonarQube, Trusteer, CIS benchmarks</li>
+<li> Security: QRadar, Splunk, EDR, Firewalls, IDS, IPS, VPN,  YARA</li>
+<li> Guidelines: OWASP, OSSTMM, NIST, Cybersecurity framework, ENISA, MITRE</li>
+<li> Cloud: GCP, AWS</li>
+<li> Programming: C, C#, Python, Java, Bash scripting, Javascript, Lisp, R</li>
+<li> Virtualization: VMWare, VirtualBox, Xen, KVM</li>
+<li> Machine Learning: SVM, KNN, K-Means, Decision Tree, Naïve Bayes</li>
+</ul>
