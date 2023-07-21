@@ -2,6 +2,7 @@
 
 
 🎓 Academic Journey 🎓
+
 I hold a Ph.D. and M.Sc. in Cybersecurity. 
 My research revolved around the fascinating realm of Moving Target Defense, exploring innovative ways to bolster digital fortifications against relentless adversaries.
 
