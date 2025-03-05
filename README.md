@@ -10,7 +10,7 @@ Welcome to my collection of projects! Here, you’ll find a variety of repositor
 
 ## 🔒 Security & Monitoring
 A set of projects aimed at strengthening cybersecurity and improving monitoring:
-- 🪵 **[ishinobu](https://github.com/gnzdotmx/ishinobu)**  
+- 🪵 ** [ishinobu](https://github.com/gnzdotmx/ishinobu) **
   *Modular Triage Data Collection Tool for macOS *  
   Designed to collect system information and logs from various sources, such as system logs, network connections, running processes, and more.
 
