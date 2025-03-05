@@ -11,8 +11,8 @@ Welcome to my collection of projects! Here, you’ll find a variety of repositor
 ## 🔒 Security & Monitoring
 A set of projects aimed at strengthening cybersecurity and improving monitoring:
 - 🪵 **[ishinobu](https://github.com/gnzdotmx/ishinobu)**  
-  *Lightweight Log Aggregator*  
-  A project dedicated to collecting and managing logs efficiently for real-time event monitoring.
+  *Modular Triage Data Collection Tool for macOS *  
+  Designed to collect system information and logs from various sources, such as system logs, network connections, running processes, and more.
 
 - 🔗 **[ishinobu2elk](https://github.com/gnzdotmx/ishinobu2elk)**  
   *Integrating Ishinobu with ELK*  
