@@ -79,4 +79,13 @@ Explore projects focused on solving challenges with algorithms and AI:
 
 ---
 
+## 🎥 Media & Content Tools
+Projects that help creators produce and optimize digital content:
+
+- 🎬 **[StudioFlowAI](https://github.com/gnzdotmx/StudioFlowAI)**  
+  *AI-powered Video Processing Toolkit*  
+  A workflow automation tool for content creators that streamlines transcription, formatting, content generation, and social media optimization using Go and YAML-defined pipelines.
+
+---
+
 Feel free to dive into any project, open an issue, or contribute improvements. Your feedback and collaboration are most welcome!
