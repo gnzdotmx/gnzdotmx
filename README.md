@@ -77,6 +77,10 @@ Explore projects focused on solving challenges with algorithms and AI:
   *Maze Solving with Reinforcement Learning*  
   A project that applies reinforcement learning techniques to train an AI for solving maze challenges.
 
+- 🖥️ **[offline-ai-assistant](https://github.com/gnzdotmx/offline-ai-assistant)**  
+  *Fully Offline Desktop AI Assistant*  
+  A privacy-focused desktop application providing document analysis and question-answering capabilities with complete local processing. Features semantic search, AI-powered responses with source citations, and support for PDF/DOCX files—all running entirely offline.
+
 ---
 
 ## 🎥 Media & Content Tools
@@ -85,6 +89,19 @@ Projects that help creators produce and optimize digital content:
 - 🎬 **[StudioFlowAI](https://github.com/gnzdotmx/StudioFlowAI)**  
   *AI-powered Video Processing Toolkit*  
   A workflow automation tool for content creators that streamlines transcription, formatting, content generation, and social media optimization using Go and YAML-defined pipelines.
+
+- 🎤 **[gnztranscriber](https://github.com/gnzdotmx/gnztranscriber)**  
+  *Fast CLI Tool for Audio/Video Transcription*  
+  A simple and fast command-line tool for transcribing audio and video files using Whisper. Features automatic file type detection, multiple output formats (SRT, TXT, VTT, JSON), easy model management, and fast transcription using whisper.cpp.
+
+---
+
+## 💼 Finance & Productivity
+Web applications and tools for managing personal finances and improving productivity:
+
+- 💰 **[OkaneTrack](https://github.com/gnzdotmx/okane-track)**  
+  *Comprehensive Finance Management Web Application*  
+  A full-stack finance management application featuring multi-currency support, real-time exchange rates, budget tracking, transaction management, and advanced analytics with CSV import/export capabilities.
 
 ---
 
